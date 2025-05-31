@@ -8,7 +8,6 @@ import java.util.Scanner;
  * It provides a menu-driven interface that allows users to initialize an array of random characters
  * and perform various search operations, such as iterative and recursive binary and linear searches.
  * The program also measures and displays the time taken to perform these searches.
- * <p>
  * Student Name: Shane O'Connell
  * Student Number: 041144343
  * Section #: 311
